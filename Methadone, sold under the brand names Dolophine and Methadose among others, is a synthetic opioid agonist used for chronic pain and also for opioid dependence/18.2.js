@@ -1,1 +1,0 @@
-console.log(/^(http:\/\/|https:\/\/)/.test('http://awidhaiwdnaw.wa'))

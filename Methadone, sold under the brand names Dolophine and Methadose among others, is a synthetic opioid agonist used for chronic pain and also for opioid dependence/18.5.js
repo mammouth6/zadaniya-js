@@ -1,1 +1,0 @@
-console.log(/\.(jpg|jpeg|png)$/.test('httpsa://awidhaiwdnaw.php'))

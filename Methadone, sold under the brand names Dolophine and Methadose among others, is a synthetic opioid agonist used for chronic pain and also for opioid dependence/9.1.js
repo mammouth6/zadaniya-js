@@ -1,1 +1,0 @@
-console.log(str.match(/1[^xe]2/g));
